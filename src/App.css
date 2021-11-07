@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.mainDiv {
+  display: flex;
+  border: 2px solid #61dafb;
+  border-radius: 20px;
+  align-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-family: "roboto";
+  width: 70%;
+  margin: 20px auto;
+}
+.ManageDiv {
+  display: flex;
+  border-radius: 20px;
+  align-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-family: "roboto";
+  width: 70%;
+  margin: 20px auto;
+}
+.mainDivHide {
+  display: none;
+}
+.btn {
+  width: 160px;
+  border-radius: 20px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  padding: 15px 35px;
+  margin: 5px auto;
+  box-sizing: border-box;
+  text-transform: uppercase;
+}
+
+.textDec {
+  font-family: "Roboto";
+  font-size: 25px;
+  color: rgb(87, 85, 85);
+  text-transform: uppercase;
+}
